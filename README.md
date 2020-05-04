@@ -3,7 +3,7 @@
 
 # App Screenshots
 
-Background Image On Day Time              |  Background Image On Night Time 
+Day Time              |  Night Time 
 :-------------------------:|:-------------------------:
 ![](https://github.com/cpratik711/flutter_world_time/blob/master/screenshot/1.png)  |  ![](https://github.com/cpratik711/flutter_world_time/blob/master/screenshot/2.png) |
 
