@@ -29,7 +29,8 @@ class WorldTime {
       print(time);
     } catch (e) {
       print(e);
-      time = 'Could not get time data';
+      time = 'Fetch Failed';
+      image = getBgImage(0);
     }
   }
 

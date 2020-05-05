@@ -26,8 +26,9 @@ class _LoadingState extends State<Loading> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.cyanAccent,
       body: Center(
-        child: SpinKitWave(
+        child: SpinKitPouringHourglass(
           size: 80.0,
           color: Colors.black,
         ),
